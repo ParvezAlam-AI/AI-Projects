@@ -1,4 +1,4 @@
-🚀** AI-Projects Hub: Exploring the Future of AI & LLMs**  
+🚀**AI-Projects Hub: Exploring the Future of AI & LLMs**  
 Welcome to AI-Projects – a cutting-edge repository dedicated to experimenting, testing, and building AI-powered applications.  
 Here, you'll find implementations of Large Language Models (LLMs), AI Agents, Agentic Workflows, and the latest advancements in AI research.  
 
