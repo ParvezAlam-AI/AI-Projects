@@ -21,9 +21,8 @@ This repository is a collection of AI experiments, projects, and workflows, incl
 
 | Project Name | Description | Link |
 |-------------|-------------|------|
-| 🦾 [DeepSeek R1 Local Run](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/DeepSeek-R1-Chatbot) | Running DeepSeek R1 (7B) locally via Ollama. | 🔗 [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/DeepSeek-R1-Chatbot) |
-| 🤖 [Agentic AI Workflows](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Agentic-AI) | Building multi-agent systems that collaborate on tasks. | 🔗 [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Agentic-AI) |
-| 🏎️ [LLM Performance Benchmarks](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/LLM-Benchmarks) | Testing response speed, accuracy, and reasoning capabilities of different LLMs. | 🔗 [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/LLM-Benchmarks) |
-| 🛠 [LLM Tools & API Integrations](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/AI-Tools) | Connecting AI with external APIs, databases, and automation workflows. | 🔗 [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/AI-Tools) |
-| 📝 [Custom Fine-Tuned Models](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Fine-Tuning) | Training and optimizing domain-specific AI models. | 🔗 [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Fine-Tuning) |
-ned!
+| 🦾 [DeepSeek R1 Local Run](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/DeepSeek-R1-Chatbot) | Running DeepSeek R1 (7B) locally via Ollama. | 🔗  [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/DeepSeek-R1-Chatbot) |
+| 🤖 [Agentic AI Workflows](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Agentic-AI) | Building multi-agent systems that collaborate on tasks. | 🔗 (Coming Soon) [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Agentic-AI) |
+| 🏎️ [LLM Performance Benchmarks](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/LLM-Benchmarks) | Testing response speed, accuracy, and reasoning capabilities of different LLMs. | 🔗 (Coming Soon) [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/LLM-Benchmarks) |
+| 🛠 [LLM Tools & API Integrations](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/AI-Tools) | Connecting AI with external APIs, databases, and automation workflows. | 🔗 (Coming Soon) [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/AI-Tools) |
+| 📝 [Custom Fine-Tuned Models](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Fine-Tuning) | Training and optimizing domain-specific AI models. | 🔗 (Coming Soon) [View Project](https://github.com/ParvezAlam-AI/AI-Projects/tree/main/Fine-Tuning) |
