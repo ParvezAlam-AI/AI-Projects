@@ -60,19 +60,15 @@ CTRL + d to exit
 
 📝 **Running the Python Chatbot ** 
 Once DeepSeek R1 is installed, run the chatbot script:  
+powershell  
+python deepseek_chat.py  
 
-powershell
 
-python deepseek_chat.py
-✅ Example Chat Session:
-
-vbnet
-Copy
-Edit
-You: What is DeepSeek R1?  
+✅ Example Chat Session:  
+You: What is DeepSeek R1?    
 AI: DeepSeek R1 is a 7-billion parameter transformer model...  
 💡 Type "exit" to stop the chat.
 
 
-🚀 Happy Chatting!
-🔥 Now you have DeepSeek R1 (7B) running locally—no API, no cloud, just pure AI power! 🔥
+🚀 Happy Chatting!  
+🔥 Now you have DeepSeek R1 (7B) running locally—no API, no cloud, just pure AI power! 🔥  
