@@ -3,22 +3,22 @@ A powerful AI chatbot running locally on Windows using DeepSeek R1 (7B) and Olla
 
 📌 Features
 
-✅ Runs fully offline (no API calls needed)
-✅ Uses DeepSeek R1 (7B) via Ollama
-✅ Fast & responsive AI chat
-✅ Easy to install on Windows
-✅ Windows, macOS, and Linux support
+✅ Runs fully offline (no API calls needed)  
+✅ Uses DeepSeek R1 (7B) via Ollama  
+✅ Fast & responsive AI chat 
+✅ Easy to install on Windows  
+✅ Windows, macOS, and Linux support  
 
-📥 Installation Guide
-1️⃣ Install Ollama
-Ollama is required to run DeepSeek R1 locally.
+📥 Installation Guide  
+1️⃣ Install Ollama  
+Ollama is required to run DeepSeek R1 locally.  
 
-🟢 Windows (via PowerShell)
-powershell
-Copy
-Edit
-winget install Ollama.Ollama
-Or, download it manually from: Ollama Official Website.
+🟢 Windows (via PowerShell)  
+powershell  
+Copy  
+Edit  
+winget install Ollama.Ollama  
+Or, download it manually from: Ollama Official Website. 
 
 🔵 macOS (via Homebrew)
 sh
