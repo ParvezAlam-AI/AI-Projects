@@ -14,60 +14,55 @@ A powerful AI chatbot running locally on Windows using DeepSeek R1 (7B) and Olla
 Ollama is required to run DeepSeek R1 locally.  
 
 🟢 Windows (via PowerShell)  
-powershell  
-Copy  
-Edit  
+
 winget install Ollama.Ollama  
 Or, download it manually from: Ollama Official Website.  
 
 🔵 macOS (via Homebrew)  
-sh  
-Copy  
-Edit  
 brew install ollama  
-🟡 Linux  
-Copy  
-Edit  
+
+🟡 Linux   
 curl -fsSL https://ollama.com/install.sh | sh  
-📥 Download & Run DeepSeek R1  
-After installing Ollama, download DeepSeek R1 (7B) using:  
 
-powershell
-Copy
-Edit
-ollama pull deepseek-r1:7b
-✅ This will download and install the model locally.
 
-💻 Running DeepSeek R1 in the Terminal
-Once the model is installed, start chatting:
+📥 **Download & Run DeepSeek R1  **
+After installing Ollama, download DeepSeek R1 (7B) using:   
 
 powershell  
-Copy  
-Edit  
+ollama pull deepseek-r1:7b  
+✅ This will download and install the model locally.  
+
+💻 Running DeepSeek R1 in the Terminal  
+Once the model is installed, start chatting:  
+
+powershell  
+
 ollama run deepseek-r1:7b   
-💬 This will launch an interactive chat with DeepSeek R1 in your terminal.  
+💬 This will launch an interactive chat with DeepSeek R1 in your terminal.    
 
 🔄 Start & Stop Ollama Service  
 Start Ollama in the Background:  
-powershell  
-Copy  
-Edit  
+powershell   
 ollama serve start  
 💡 Why? This keeps Ollama running so you can use it in Python without restarting it each time.  
 
 Stop Ollama Service:  
 powershell  
-Copy  
-Edit  
 ollama serve stop  
 💡 Why? Stops the Ollama server to free up memory.  
 
-📝 Running the Python Chatbot  
+📝 **Running Deepseek-r1 in terminal ** 
+
+ollama serve  
+ollama run deepseek-r1:7b  
+ollama stop deepseek-r1:7b  
+CTRL + d to exit
+
+📝 **Running the Python Chatbot ** 
 Once DeepSeek R1 is installed, run the chatbot script:  
 
 powershell
-Copy
-Edit
+
 python deepseek_chat.py
 ✅ Example Chat Session:
 
