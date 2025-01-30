@@ -2,6 +2,7 @@
 A powerful AI chatbot running locally on Windows using DeepSeek R1 (7B) and Ollama.
 
 📌 Features
+
 ✅ Runs fully offline (no API calls needed)
 ✅ Uses DeepSeek R1 (7B) via Ollama
 ✅ Fast & responsive AI chat
